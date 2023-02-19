@@ -1,0 +1,3 @@
+#!/bin/sh
+
+make --directory=/home/system_failure/.local/src/dwm/ clean install

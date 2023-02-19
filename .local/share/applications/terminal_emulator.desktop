@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Icon=folder
+Name=Terminal Emulator
+Exec=st
+Terminal=false
+Hidden=false
+Categories=System

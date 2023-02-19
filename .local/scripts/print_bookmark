@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sleep 0.2
+xdotool type $(grep -v '^#' ${HOME}/.local/share/bot/snippets/bookmarks | dmenu -i -l 38 | cut -d' ' -f1)

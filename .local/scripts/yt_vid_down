@@ -1,0 +1,3 @@
+#!/bin/sh
+
+[ -z "{HOME}/Downloads/yt_videos" ] || mkdir 
